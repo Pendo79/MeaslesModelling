@@ -4,5 +4,5 @@ Analysis and modelling code for measles (and rubella) transmission dynamics in M
 
 ## Structure
 - `script/` – R scripts for cleaning, analysis, and modelling
-- `data/` – input data (not tracked if sensitive)
+- `data/` – input data 
 - `output/` – generated figures, tables, and model outputs
